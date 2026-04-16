@@ -1,4 +1,4 @@
-## XXXXX Project by :  
+## Smart Home Project by :  Ali Harbaji, Karim Abu Ubed, Lobna Ghanim
   
 ## Details about the project
  
