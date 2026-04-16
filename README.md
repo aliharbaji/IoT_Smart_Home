@@ -1,4 +1,4 @@
-## Smart Home Project by :  Ali Harbaji, Karim Abu Ubed, Lobna Ghanim
+## Smartify - Smart Home IoT Project by :  Ali Harbaji, Karim Abu Ubed, Lobna Ghanim
   
 ## Details about the project
  
